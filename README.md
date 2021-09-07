@@ -9,10 +9,9 @@
 |Blog|[いいねのお勉強ノート](https://iine-programming.hatenablog.com/)|
 
 ## 得意領域
-- Laravelを用いたWebアプリ・WebAPI・バッチの開発
-- PHPUnitを用いた単体テストの設計・実装・運用
-- Vue.jsを用いたフロントエンドアプリケーションの設計・開発
-- Electronを用いたデスクトップアプリケーションの設計・開発
+- フロントエンドからバックエンドまでのWeb開発
+- プロジェクト向けの環境構築整備（Docker, Makefile）
+- PHPUnitを用いた単体テストの導入・設計・実装・運用
 - 一通りのSQL操作
 
 ## スキル
@@ -53,8 +52,10 @@
   - 異なるスキルセットを持つメンバー同士の摩擦をどのように無くすか
   - QA環境の整備
   - CI/CDの整備
+
 ### アプリケーション開発
 - フルスタックJavaScriptアプリケーションの構築
+- Jestを用いたフロントエンドアプリのUT・ST・UAT環境の構築
 
 ## 業務経歴（新しい順）
 
@@ -104,6 +105,7 @@
 ##### 担当業務
 - バックエンドAPIの開発（Laravel）
 - バックエンドAPI ECサイト連携・外部認証機能の開発（Laravel）
+- バックエンドAPIに自動テストを導入、GitHubActionsでCI環境を整備（PHPUnit, GitHubActions）
 - Google Fit API連携機能の開発（Flutter）
 
 
