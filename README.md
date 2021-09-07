@@ -105,7 +105,7 @@
 ##### 担当業務
 - バックエンドAPIの開発（Laravel）
 - バックエンドAPI ECサイト連携・外部認証機能の開発（Laravel）
-- バックエンドAPIに自動テストを導入、GitHubActionsでCI環境を整備（PHPUnit, GitHubActions）
+- バックエンドAPIに自動テストを導入、GitHub ActionsでCI環境を整備（PHPUnit, GitHub Actions）
 - Google Fit API連携機能の開発（Flutter）
 
 
