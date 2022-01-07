@@ -62,13 +62,23 @@
 
 ## 業務経歴（新しい順）
 
-### Web系受託企業（2019/12 - 現在）
+### 株式会社ウイングドア（2019/12 - 現在）
 
 |key|value|
 |---|-----|
 | 事業内容 | システムの受託開発、システムチームの提供、他社開発システムの運用保守引継ぎ、業務改善コンサルティング |
 | 資本金 | 600万円 |
 | 人数 | 	19名 |
+
+#### オリジナルCMSを用いたWebサイトのリニューアル(2021/9 - 2022/1)
+　LaravelベースのオリジナルCMSを用いたサイト構築PJ
+ 
+ ##### 担当業務
+- 顧客とのメイン窓口
+- チーム（2人）の取りまとめ
+- データ移行スクリプトの作成
+- デザインに合わせたバックエンド（Laravel）出力内容の調整
+
 
 #### オリジナルCMSを用いたWebサイト作成・機能追加(2021/3 - 2021/9)
 　LaravelベースのオリジナルCMSを用いたサイト構築PJ
@@ -165,9 +175,15 @@
 - ECサイトの管理画面の改修（PHP・jQuery）
 
 ## その他の取り組み
-- 自分と社内メンバーの2名で社内向けFlutter入門勉強会の実施
+- TDDの実践・導入支援
+- 社内向けFlutter入門勉強会の実施（自分含む2名で運営）
+- 個人ブログ：[いいねのお勉強ノート](https://iine-programming.hatenablog.com/)
+
+　### 個人開発
 - [Raspberry Piでシェアハウス向けのカメラ・LINEbotの作成](https://iine-programming.hatenablog.com/entry/2019/08/30/195010)
   - [オンプレのLAMP環境をAmazonEC2に移行した話](https://iine-programming.hatenablog.com/entry/2019/10/06/230427)
+- [LaraBot Framework](https://github.com/hiyorineko/LaraBotFramework)
+  - チャットbotアプリケーションを簡単に構築するためのLaravel製フレームワークです。
 
 ## 趣味・好きなこと
 - ギターを弾く
