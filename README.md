@@ -177,13 +177,13 @@
 ## その他の取り組み
 - TDDの実践・導入支援
 - 社内向けFlutter入門勉強会の実施（自分含む2名で運営）
-- 個人ブログ：[いいねのお勉強ノート](https://iine-programming.hatenablog.com/)
-
-　### 個人開発
-- [Raspberry Piでシェアハウス向けのカメラ・LINEbotの作成](https://iine-programming.hatenablog.com/entry/2019/08/30/195010)
-  - [オンプレのLAMP環境をAmazonEC2に移行した話](https://iine-programming.hatenablog.com/entry/2019/10/06/230427)
-- [LaraBot Framework](https://github.com/hiyorineko/LaraBotFramework)
-  - チャットbotアプリケーションを簡単に構築するためのLaravel製フレームワークです。
+- 個人ブログ
+  - [いいねのお勉強ノート](https://iine-programming.hatenablog.com/)
+- 個人開発
+  - [Raspberry Piでシェアハウス向けのカメラ・LINEbotの作成](https://iine-programming.hatenablog.com/entry/2019/08/30/195010)
+    - [オンプレのLAMP環境をAmazonEC2に移行した話](https://iine-programming.hatenablog.com/entry/2019/10/06/230427)
+  - [LaraBot Framework](https://github.com/hiyorineko/LaraBotFramework)
+    - チャットbotアプリケーションを簡単に構築するためのLaravel製フレームワークです。
 
 ## 趣味・好きなこと
 - ギターを弾く
