@@ -9,9 +9,12 @@
 |Blog|[いいねのお勉強ノート](https://iine-programming.hatenablog.com/)|
 
 ## 得意領域
+- 新しいことにチャレンジすること
+- ドメイン駆動開発
+- テスト駆動開発
 - フロントエンドからバックエンドまでのWeb開発
 - プロジェクト向けの環境構築整備（Docker, Makefile）
-- PHPUnitを用いた単体テストの導入・設計・実装・運用
+- PHPUnit, RSpecを用いた単体テストの導入・設計・実装・運用
 - 一通りのSQL操作
 
 ## スキル
@@ -19,6 +22,7 @@
 - Java
 - SQL
 - PHP
+- Ruby
 - JavaScript
 - TypeScript
 - Objective-C
@@ -29,16 +33,30 @@
 
 ### フレームワーク
 - Laravel
+- Ruby on Rails
 - Vue.js(2系・3系)
 - Electron
 - Spring Framework
 - PL/SQL
 - Flutter(1系)
 
+## インフラ
+- AWS（EC2, Route53, ALB, ACM）
+- GitHub Actions
+
+## 求める環境
+- 常に変化のある環境に身を置きたい
+- 働きがどういう価値を提供しているかを追求していきたい
+
 ## 強み
 - 複雑系を解体して淡々と取り組んでいける
 - いろんなことに興味を持てる
+  - 開発技術、インフラ構築、CI/CD、DevOps、ギター、イラスト……
 - 手札を増やすことが好き
+- やり方を整理して共有するのが好き
+  - プロジェクトのWikiの作成
+  - [技術ブログ](https://iine-programming.hatenablog.com/)
+
 
 ## 資格
 |資格名|取得年月|
@@ -57,6 +75,7 @@
 - ドメイン駆動設計
   - 「エリック・エヴァンスのドメイン駆動設計」に強く共感
   - エヴァンス本の実践においての肌感を知りたい
+- クリーンアーキテクチャの実践
 - フルスタックJavaScriptアプリケーションの構築
 - Jestを用いたフロントエンドアプリのUT・ST・UAT環境の構築
 
@@ -184,6 +203,8 @@
     - [オンプレのLAMP環境をAmazonEC2に移行した話](https://iine-programming.hatenablog.com/entry/2019/10/06/230427)
   - [LaraBot Framework](https://github.com/hiyorineko/LaraBotFramework)
     - チャットbotアプリケーションを簡単に構築するためのLaravel製フレームワークです。
+  - [ConsultationReservationService](https://github.com/hiyorineko/ConsultationReservationService)
+    - エキスパートへの相談希望日時を予約登録できるWebアプリケーション（RoR習作）
 
 ## 趣味・好きなこと
 - ギターを弾く
