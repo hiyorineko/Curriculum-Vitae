@@ -9,40 +9,31 @@
 |Blog|[いいねのお勉強ノート](https://iine-programming.hatenablog.com/)|
 
 ## 得意領域
-- 新しいことにチャレンジすること
-- ドメイン駆動開発
-- テスト駆動開発
 - フロントエンドからバックエンドまでのWeb開発
-- プロジェクト向けの環境構築整備（Docker, Makefile）
-- PHPUnit, RSpecを用いた単体テストの導入・設計・実装・運用
-- 一通りのSQL操作
+- 不明点に飛び込んで落とし所を見つけること
 
 ## スキル
+
 ### 言語
-- Java
-- SQL
-- PHP
+- 英語
+  - TOEIC L445/R385
+  - PROGOS B1High
+  - 英検２級
+
+### プログラミング言語
 - Ruby
-- JavaScript
 - TypeScript
 - Objective-C
 - Dart
-- 英語
-  - 2008年くらいに取った英検2級
-  - 英語で書かれたリファレンスを読める程度
 
 ### フレームワーク
-- Laravel
 - Ruby on Rails
+- Laravel
 - Vue.js(2系・3系)
 - Electron
 - Spring Framework
 - PL/SQL
 - Flutter(1系)
-
-## インフラ
-- AWS（EC2, Route53, ALB, ACM）
-- GitHub Actions
 
 ## 求める環境
 - 常に変化のある環境に身を置きたい
@@ -63,7 +54,7 @@
 |-----|--------|
 |応用情報技術者|2019/10|
 
-## やったことはないが興味があるもの
+## 興味があるもの
 ### チーム作り
 - メンバーが能力を発揮できるチーム作りの為の試み
   - スクラム開発など、PDCAサイクルの整備
@@ -88,10 +79,26 @@
 | 資本金 | 25,775(百万円) |
 | 人数 | 	815名 |
 
-#### クラウド経費/クラウド債務支払の機能開発(2022/04 ~)
+#### クラウド経費/クラウド債務支払 Warriorチーム(2022/04 ~ 2024/02)
  
 ##### 担当業務
 - 新機能の開発業務
+
+
+#### クラウド経費/クラウド債務支払 ガーディアンチーム(2022/03 ~)
+
+##### 担当業務
+- 運用/保守
+- テクニカルサポート
+- 改善開発
+
+#### その他社内活動
+- 社内テックイベントの開催（読書会・LT大会）
+- 技術書典記事寄稿
+  - https://techbookfest.org/product/3s3VWYC1QHPhg6C5dDMZUY?productVariantID=a7YfDE4M1NfuPFVfdeQ3H7
+  - https://techbookfest.org/product/9SQShzgEk5EAx8YuhWnzM2?productVariantID=vXB5KCHTxWMFLyTTukTpVc
+- テックブログ執筆
+  - https://moneyforward-dev.jp/
 
 ---------------------------------
 
